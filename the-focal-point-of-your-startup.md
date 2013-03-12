@@ -6,9 +6,10 @@ Wrong.
 
 You must *start* with a technical giant, someone who "scares the shit
 out of you" with their competence, deeply shakes your resolve in this
-big idea and why it matters, and then can reflect XXX.  Simply put,
-this is someone you're willing to spend years of your life with -
-someone you're comfortable having your success be contingent upon.
+big idea and why it matters, and then can reflect it back to you in a
+way that makes it real.  Simply put, this is someone you're willing to
+spend years of your life with - someone you're comfortable having your
+success be contingent upon - someone you love thinking with.
 
 Still think you can settle for less and then just manage more?  I
 still disagree - **Your time is precious** and you must spend every
@@ -25,8 +26,8 @@ the focal point of your organization.  The one who turns good ideas
 into an execution plan, keeps shit on the rails while you're on the
 road, and a trusted friend who won't kick you when you're down.
 
-A successful product requires exquisite technical leadership, get
-this first.
+Building an important product requires exquisite technical leadership,
+*get this first*.
 
 Execution is everything.
 lloyd
